@@ -1,4 +1,4 @@
-package com.app;
+package com.app.thread;
 
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;

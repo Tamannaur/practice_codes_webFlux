@@ -1,4 +1,4 @@
-package com.app;
+package com.app.thread;
 
 public class Thread_Sleep {
     public static void main(String[] args) {
