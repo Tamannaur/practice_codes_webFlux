@@ -8,7 +8,8 @@ public class CompletableFutureExample {
                 .thenApply(val-> val+" Aktar")
                 .thenApply(val-> val + " Hussain")
                 .exceptionally(Throwable::getMessage) //.exceptionally(e->e.getMessage())
-                .thenAccept(System.out::println);
+                .thenAccept(System.out::println)
+                .join();
 
 
         //
