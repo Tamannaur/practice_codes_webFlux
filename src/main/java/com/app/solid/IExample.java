@@ -1,6 +1,7 @@
 package com.app.solid;
 
-//Interface Segrigation Principle
+//Interface Segregation Principle: Don't force the classes to implement interface
+//which doesn't use
 public class IExample {
     public static void main(String[] args) {
         Work r = new Robot();
