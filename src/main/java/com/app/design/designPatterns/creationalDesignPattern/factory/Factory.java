@@ -2,7 +2,7 @@ package com.app.design.designPatterns.creationalDesignPattern.factory;
 
 
 //Used to create object without exposing the creation logic
-//Rather than creating object by directly calling constructor we call via factory method
+//Rather than creating object by directly calling constructor we create via factory method
 //And call the interface
 public class Factory {
     public static void main(String[] args) {
