@@ -1,4 +1,4 @@
-package com.app.solid;
+package com.app.design.solid;
 
 //Interface Segregation Principle: Don't force the classes to implement interface
 //which doesn't use

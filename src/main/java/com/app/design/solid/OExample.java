@@ -1,4 +1,4 @@
-package com.app.solid;
+package com.app.design.solid;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

@@ -1,4 +1,4 @@
-package com.app.solid;
+package com.app.design.solid;
 //Single Responsibility Principle
 public class SExample {
     public static void main(String[] args) {

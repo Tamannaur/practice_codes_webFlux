@@ -1,4 +1,4 @@
-package com.app.solid;
+package com.app.design.solid;
 //Liskov Substitution Principle
 public class LExample {
     public static void main(String[] args) {

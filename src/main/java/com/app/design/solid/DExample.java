@@ -1,4 +1,4 @@
-package com.app.solid;
+package com.app.design.solid;
 
 //Dependency inversion principle
 public class DExample {
